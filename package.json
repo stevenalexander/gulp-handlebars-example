@@ -1,0 +1,19 @@
+{
+  "name": "gulp-handlebars-example",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stevenalexander/gulp-handlebars-example"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-declare": "^0.3.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-wrap": "^0.11.0"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
